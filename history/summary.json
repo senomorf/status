@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 1060,
     "timeDay": 892,
-    "timeWeek": 1071,
+    "timeWeek": 1033,
     "timeMonth": 1072,
     "timeYear": 1060,
     "dailyMinutesDown": {}
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 1077,
     "timeDay": 900,
-    "timeWeek": 1061,
+    "timeWeek": 1029,
     "timeMonth": 1172,
     "timeYear": 1077,
     "dailyMinutesDown": {}
@@ -48,7 +48,7 @@
     "uptimeYear": "100.00%",
     "time": 1030,
     "timeDay": 897,
-    "timeWeek": 1041,
+    "timeWeek": 1022,
     "timeMonth": 1077,
     "timeYear": 1030,
     "dailyMinutesDown": {}
@@ -58,17 +58,19 @@
     "url": "https://aiostreams.m0r.phd/",
     "icon": "https://icons.duckduckgo.com/ip3/aiostreams.m0r.phd.ico",
     "slug": "aio-streams",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1035,
-    "timeDay": 917,
-    "timeWeek": 1013,
-    "timeMonth": 1031,
-    "timeYear": 1035,
-    "dailyMinutesDown": {}
+    "time": 1031,
+    "timeDay": 826,
+    "timeWeek": 994,
+    "timeMonth": 1021,
+    "timeYear": 1031,
+    "dailyMinutesDown": {
+      "2026-10-20": 0
+    }
   }
 ]
