@@ -1,7 +1,7 @@
 url: https://aiostreams.m0r.phd/
-status: up
-code: 200
-responseTime: 917
-lastUpdated: 2026-10-20T01:40:20.560Z
+status: down
+code: 502
+responseTime: 735
+lastUpdated: 2026-10-20T22:14:42.130Z
 startTime: 2026-08-04T18:51:20.415Z
 generator: Upptime <https://github.com/upptime/upptime>
