@@ -58,19 +58,19 @@
     "url": "https://aiostreams.m0r.phd/",
     "icon": "https://icons.duckduckgo.com/ip3/aiostreams.m0r.phd.ico",
     "slug": "aio-streams",
-    "status": "down",
-    "uptime": "99.77%",
-    "uptimeDay": "82.31%",
-    "uptimeWeek": "97.47%",
-    "uptimeMonth": "99.42%",
-    "uptimeYear": "99.77%",
+    "status": "up",
+    "uptime": "99.09%",
+    "uptimeDay": "28.89%",
+    "uptimeWeek": "89.84%",
+    "uptimeMonth": "97.66%",
+    "uptimeYear": "99.09%",
     "time": 1028,
-    "timeDay": 734,
-    "timeWeek": 941,
+    "timeDay": 829,
+    "timeWeek": 949,
     "timeMonth": 1014,
     "timeYear": 1028,
     "dailyMinutesDown": {
-      "2026-10-21": 149,
+      "2026-10-21": 919,
       "2026-10-20": 105
     }
   }
